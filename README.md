@@ -67,6 +67,14 @@ Die fertige Datei landet in `outputs/transcripts/` deines Arbeitsverzeichnisses.
 [00:00:01] Textzeile...
 ```
 
+## Version
+
+| Version | Datum | Getestet mit |
+|---|---|---|
+| v1.0 | April 2026 | Claude Sonnet 4.6, yt-dlp 2026.03.17 |
+
+Prompt-Verhalten kann sich zwischen Modellversionen ändern. Bitte prüfen, ob der Skill mit einer neueren Claude-Version noch wie erwartet funktioniert.
+
 ## Ordnerstruktur des Plugins
 
 ```
